@@ -281,7 +281,7 @@ This project is developed for educational purposes and demonstrates Java program
 
 ---
 
-**Author**: Java Programming Student  
-**Course**: Programming in Java Project 1  
+**Author**: Adarsh Kumar Jha
+**Course**: Programming in Java 
 **Date**: September 2025  
 **Version**: 1.0
