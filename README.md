@@ -106,6 +106,16 @@ Update the PATH Variable
     In the same "Environment Variables" window, select the "Path" variable under "System variables" and click "Edit."
 
     Add a new entry for your JDK's bin directory (e.g., C:\Program Files\Java\jdk-23\bin)
+![WhatsApp Image 2025-09-24 at 10 23 47_4ab5896a](https://github.com/user-attachments/assets/394b52e4-df3d-4d6d-b2d0-ddffefa9f4f0)
+
+![WhatsApp Image 2025-09-24 at 10 23 47_b58fe291](https://github.com/user-attachments/assets/eb89b4da-e52d-4785-a0bd-ebed726cdbea)
+![WhatsApp Image 2025-09-24 at 10 24 04_7d010c18](https://github.com/user-attachments/assets/106ed56b-d06b-4c93-ac55-09c7d157cdfc)
+![WhatsApp Image 2025-09-24 at 10 24 18_8f9b2d41](https://github.com/user-attachments/assets/95c53dc5-bd31-4530-9e1c-8b6bd6e4d4d9)
+
+![WhatsApp Image 2025-09-24 at 10 24 54_04e0dff9](https://github.com/user-attachments/assets/dc761127-833c-4530-b533-295bc01ae62e)
+![WhatsApp Image 2025-09-24 at 10 26 35_4df1b35a](https://github.com/user-attachments/assets/da0f3bea-bf03-4a9d-a58e-7beafd023ed1)
+
+
 
 
 1. **Extract the Project**
